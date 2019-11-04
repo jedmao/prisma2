@@ -46,10 +46,6 @@ Can't reach database server at `${database_host}`:`${database_port}` <br /> <br 
 
 Ensure that your database server is running and that you can reach it via the connection string that has been provided as the `url` argument on the `datasource` definition in your [Prisma schema](). 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> e1781694fcb0569df2dba2fa55948aca9a5bb375
 #### P1002: Database timeout
 
 ##### Info
