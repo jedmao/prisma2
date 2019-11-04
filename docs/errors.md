@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Error reference
-=======
-# Error reference)
->>>>>>> e1781694fcb0569df2dba2fa55948aca9a5bb375
 
 ## Error codes
 
