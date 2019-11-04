@@ -46,7 +46,6 @@ Can't reach database server at `${database_host}`:`${database_port}` <br /> <br 
 
 Ensure that your database server is running and that you can reach it via the connection string that has been provided as the `url` argument on the `datasource` definition in your [Prisma schema](). 
 
-
 #### P1002: Database timeout
 
 ##### Info
@@ -167,11 +166,15 @@ Retry to see if this was only a temporary issue. If the problem persists, you ca
 
 ##### Info
 
+This error occurs when you're trying to create a database with a name that already exists on the database server you're targeting.
+
 ##### Error message
 
 Database `${database_name}` already exists on the database server at `${database_host}:${database_port}`
 
 ##### How to fix
+
+You can either rename the database that already exists to something else or decide to name the database you're about to create differently.
 
 #### P1010: Database access denied
 
