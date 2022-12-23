@@ -53,7 +53,7 @@
     "ink-progress-bar": "^3.0.0",
     "ink-spinner": "^3.0.1",
     "ink-text-input": "^3.2.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "node-fetch": "^2.6.0",
     "ora": "^3.4.0",
     "parse-github-url": "^1.0.2",
